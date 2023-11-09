@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "97763242488",
+    "project_id": "tugas1pemob",
+    "storage_bucket": "tugas1pemob.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97763242488:android:81bf8c6420255b3bbae60d",
+        "android_client_info": {
+          "package_name": "com.example.main"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97763242488-154gqkaf5888t92le2o962ilfkob5vjb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo8kluvRC3ERwpGXqGgpy4QWJDnNBa1Dc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97763242488-154gqkaf5888t92le2o962ilfkob5vjb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "97763242488-49n0u0c9i4k7ejbhduo5a0igepppqg40.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.main"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
